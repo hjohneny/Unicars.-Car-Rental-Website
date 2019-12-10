@@ -1,7 +1,8 @@
-<READ ME>
+**READ ME**
+
 A university web based project
 By: Team sengkek
 
 Unicar is a car rental portal where its interface covers the admin and client side.
-Admin can add and approve client request.
-Client can register and request booking and make payment.
+-Admin can add and approve client request.
+-Client can register and request booking and make payment.
